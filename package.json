@@ -1,0 +1,23 @@
+{
+  "name": "jhyap",
+  "version": "1.0.0",
+  "description": "https://en.wikipedia.org/wiki/Jhyap",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starain31/jhyap.git"
+  },
+  "keywords": [
+    "jhyap",
+    "card-game"
+  ],
+  "author": "sakib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starain31/jhyap/issues"
+  },
+  "homepage": "https://github.com/starain31/jhyap#readme"
+}
